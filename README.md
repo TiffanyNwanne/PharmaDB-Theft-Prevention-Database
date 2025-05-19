@@ -1,6 +1,6 @@
 # PharmaDB: Theft Prevention Database
 
-[![Preview Image](images/all-queries.png))](images/all-queries.png)
+[![Preview Image](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG))](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG)
 
 ### **Purpose**
 
