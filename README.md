@@ -1,6 +1,6 @@
 # PharmaDB: Theft Prevention Database
 
-[![Preview Image](images/all queries.png))](images/all queries.png)
+[![Preview Image](images/all-queries.png))](images/all-queries.png)
 
 ### **Purpose**
 
@@ -35,7 +35,7 @@ Logs every material movement — usage, transfer, shrinkage.
 
 ### **Trigger: `trg_theftAlert`**
 
-[![Preview Image](images/alert test.png))](images/alert test.png)
+[![Preview Image](images/alert-test.png))](images/alert-test.png)
 
 Monitors inserted transactions for suspicious deductions. If a deduction is greater than `200` units, it logs an alert message.
 
@@ -47,7 +47,7 @@ IF EXISTS (
 
 ### **View: `vw_TheftAttempts`**
 
-[![Preview Image](images/view theft attempts.png))](view theft attempts.png)
+[![Preview Image](images/view-theft-attempts.png))](view-theft-attempts.png)
 
 Displays all suspicious transactions joined with item details for easy investigation.
 
