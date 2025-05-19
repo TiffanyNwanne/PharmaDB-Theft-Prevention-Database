@@ -35,7 +35,7 @@ Logs every material movement — usage, transfer, shrinkage.
 
 ### **Trigger: `trg_theftAlert`**
 
-[![Preview Image](images/alert-test.png))](images/alert-test.png)
+[![Preview Image](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/alert%20test.PNG))](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/alert%20test.PNG)
 
 Monitors inserted transactions for suspicious deductions. If a deduction is greater than `200` units, it logs an alert message.
 
@@ -47,7 +47,7 @@ IF EXISTS (
 
 ### **View: `vw_TheftAttempts`**
 
-[![Preview Image](images/view-theft-attempts.png))](view-theft-attempts.png)
+[![Preview Image](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/view%20theft%20attempts.PNG))](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/view%20theft%20attempts.PNG)
 
 Displays all suspicious transactions joined with item details for easy investigation.
 
