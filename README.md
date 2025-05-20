@@ -1,10 +1,13 @@
 # PharmaDB: Theft Prevention Database
 
-[![Preview Image](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG))](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG)
+[![](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/PharmaDB%20ERD.png)](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/PharmaDB%20ERD.png)
+
 
 ### **Purpose**
 
 The `PharmaDB` database is designed to help prevent and detect **theft or unauthorized material usage** within a pharmaceutical production environment. It provides **real-time tracking**, **auditing**, and **alerts** for suspicious inventory transactions, especially those involving large deductions of raw materials.
+
+[![Preview Image](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG))](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database/blob/main/images/all%20queries.PNG)
 
 ---
 
